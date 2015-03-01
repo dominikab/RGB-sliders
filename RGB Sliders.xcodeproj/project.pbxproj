@@ -79,8 +79,8 @@
 			children = (
 				B4A852CA1AA35DA000CE8D6D /* AppDelegate.swift */,
 				B4A852CC1AA35DA000CE8D6D /* ViewController.swift */,
-				B4A852CE1AA35DA000CE8D6D /* Main.storyboard */,
 				B4A852D11AA35DA000CE8D6D /* Images.xcassets */,
+				B4A852CE1AA35DA000CE8D6D /* Main.storyboard */,
 				B4A852D31AA35DA000CE8D6D /* LaunchScreen.xib */,
 				B4A852C81AA35DA000CE8D6D /* Supporting Files */,
 			);
@@ -405,6 +405,7 @@
 				B4A852E61AA35DA100CE8D6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4A852E71AA35DA100CE8D6D /* Build configuration list for PBXNativeTarget "RGB SlidersTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				B4A852E91AA35DA100CE8D6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
